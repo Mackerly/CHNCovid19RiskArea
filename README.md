@@ -1,0 +1,2 @@
+# CHNCovid19RiskArea
+中国大陆新冠肺炎疫情风险区域等级查询
